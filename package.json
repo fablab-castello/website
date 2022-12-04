@@ -1,0 +1,23 @@
+{
+  "name": "@fablab-castello/website",
+  "version": "1.0.0",
+  "description": "Fablab website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fablab-castello/website.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fablab-castello/website/issues"
+  },
+  "homepage": "https://github.com/fablab-castello/website#readme"
+}
